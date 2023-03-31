@@ -116,7 +116,6 @@ e = "[#87ff00]"
 R3 = random.choice([a, b, c, d, e])
 
 USN="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 Instagram 37.0.0.9.96 (iPhone9,4; iOS 10_3_3; ru_RU; ru-RU; scale=2.61; gamut=wide; 1080x1920)"
-USN="Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 243.1.0.14.111 (iPhone13,3; iOS 15_5; en_US; en-US; scale=3.00; 1170x2532; 382468104) NW/3"
 # USN=""Mozilla/5.0 (Linux; Android 12; SM-G991B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 Instagram 215.0.0.27.359 Android (31/12; 540dpi; 1080x2158; samsung; SM-G991B; o1s; exynos2100; fr_FR; 337202359)"
 #ugen=open('ua.txt','r').read().splitlines()
 internal,external,success,checkpoint,loop,following,lisensikuni,lisensiku=[],[],[],[],0,[],[],[]
@@ -248,13 +247,13 @@ def Banner___Gua__Ngab():
 	try:clear()
 	except:pass
 	prints(Panel(f"""
-{M2}███╗   ██╗██╗   ██╗ █████╗ ██╗ {R2}
-{M}2████╗  ██║╚██╗ ██╔╝██╔══██╗██║ {R2} 
-{M2}██╔██╗ ██║ ╚████╔╝ ███████║██║ {R2} 
-{M2}██║╚██╗██║  ╚██╔╝  ██╔══██║██║  {R2} 
-{M2}██║ ╚████║   ██║   ██║  ██║██║ {R2} 
-{M2}╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  {R2} 
- \t           {R2}Kang-CabuL Aungtor Anak Kontol """,subtitle=f"4.5",title=f"{B2}{waktu()}",width=80,padding=(0,4),style=f"#FFFFFF"))                 
+{M2}███╗   ██╗██╗   ██╗ █████╗ ██╗ {K2}
+{M}2████╗  ██║╚██╗ ██╔╝██╔══██╗██║ {K2}
+{M2}██╔██╗ ██║ ╚████╔╝ ███████║██║ {K2}
+{M2}██║╚██╗██║  ╚██╔╝  ██╔══██║██║  {K2}
+{M2}██║ ╚████║   ██║   ██║  ██║██║ {K2}
+{M2}╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  {K2}
+ \t          {K2}Kang-CabuL Aungtor Anak Kontol """,subtitle=f"4.5",title=f"{B2}{waktu()}",width=80,padding=(0,4),style=f"#FFFFFF"))                 
 
 def loading():
     animation = ["[\x1b[1;91m■\x1b[0m□□□□□□□□□]","[\x1b[1;92m■■\x1b[0m□□□□□□□□]", "[\x1b[1;93m■■■\x1b[0m□□□□□□□]", "[\x1b[1;94m■■■■\x1b[0m□□□□□□]", "[\x1b[1;95m■■■■■\x1b[0m□□□□□]", "[\x1b[1;96m■■■■■■\x1b[0m□□□□]", "[\x1b[1;97m■■■■■■■\x1b[0m□□□]", "[\x1b[1;98m■■■■■■■■\x1b[0m□□]", "[\x1b[1;99m■■■■■■■■■\x1b[0m□]", "[\x1b[1;910m■■■■■■■■■■\x1b[0m]"]
@@ -510,8 +509,8 @@ class instagram:
 	       	       bulan1 = "-"
 	       	       tahun1 = "-"
 	       	pornhub = []
-	        pornhub.append(Panel(f"{P2}Nama      : {H2}{nama}\n{P2}Usernama  : {H2}{self.username}\n{P2}Pengikut  : {H2}{followers}\n{P2}Mengikuti : {H2}{following}",title=f"{M2}• {H2}• {H2}•{P2} DATA AKUN {H2}• {H2}• {M2}•",width=39,padding=(0,2),style=f"#FFFFFF"))
-	        pornhub.append(Panel(f"{P2}lLicens : {K2}{key}Sampek kiamat\n{P2}join    : {K2}{tanggal1} {bulan1} {tahun1}\n{P2}Expired : {K2}{tanggal} {bulan} {tahun}\n{P2}Bayar : {K2} Yah Jelas Tai",title=f"{M2}• {K2}• {H2}•{P2} DATA BAYAR {H2}• {K2}• {M2}•",width=39,padding=(0,2),style=f"#FFFFFF"))
+	        pornhub.append(Panel(f"{P2}Ｎａｍａ      : {H2}{nama}\n{P2}Ｕｓｅｒｎａｍａ : {H2}{self.username}\n{P2}Ｐｅｎｇｉｋｕｔ  : {H2}{followers}\n{P2}Ｍｅｎｇｉｋｕｔｉ : {H2}{following}",title=f"{M2}• {H2}• {H2}•{P2} DATA AKUN {H2}• {H2}• {M2}•",width=39,padding=(0,2),style=f"#FFFFFF"))
+	        pornhub.append(Panel(f"{P2}ＳＴＡＴＵＳ : {K2}{key}Ｓａｍｐｅｋ Ｎｙａｉ Ｍａｔｉ\n{P2}ＪＯＩＮ    : {K2}{tanggal1} {bulan1} {tahun1}\n{P2}🇪​​🇽​​🇵​​🇮​​🇷​​🇪​​🇩​: {K2}{tanggal} {bulan} {tahun}\n{P2}Ｂａｙａｒ : {K2} Ｊｅｌａｓ Ｐｅｐｅｋ ",title=f"{M2}• {K2}• {H2}•{P2} DATA BAYAR {H2}• {K2}• {M2}•",width=39,padding=(0,2),style=f"#FFFFFF"))
 	        self.tol.print(Columns(pornhub))
 
 	def HapusLisen(self):
